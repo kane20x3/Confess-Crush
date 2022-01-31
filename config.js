@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Hi Anh Thư",
-    introTitle: 'Tên Người iu tui là PHẠM ANH THƯ',
+    introTitle: ':> hôm nay là đêm giao thừa rùi em nhỉ , anh thực ra có rất nhiều điều muốn nói với em',
     introDesc: `Trái đất vốn lạ thường
     mà sao anh cứ đi nhầm đường,
     Lạc vào tim em :> , anh hong biết làm gì để giúp ebe anh vui cả :> tuy thứ này hong là gì nhưng anh tạo chỉ riêng mình em bé của anh thui :< Yêu em nhiều ạ `,
