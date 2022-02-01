@@ -1,19 +1,17 @@
 const CONFIG = {
-    titleWeb: "Hi Anh Thư",
-    introTitle: ':> hôm nay là đêm giao thừa rùi em nhỉ , anh thực ra có rất nhiều điều muốn nói với em',
-    introDesc: `Trái đất vốn lạ thường
-    mà sao anh cứ đi nhầm đường,
-    Lạc vào tim em :> , anh hong biết làm gì để giúp ebe anh vui cả :> tuy thứ này hong là gì nhưng anh tạo chỉ riêng mình em bé của anh thui :< Yêu em nhiều ạ `,
-    btnIntro: '^^HiHi^^ Thich bé Thư ',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "Hi Thanh Hang",
+    introTitle: 'Chuc Mung Nam Moi Nha',
+    introDesc: `Mong sau này Hằng sẽ vui vẻ với con đường mà mình chọn ha ,:> chúc năm mới vui vẻ Ạ`,
+    btnIntro: '^^HiHi^^',
+    title: 'HI THANH HẰNG',
+    desc: 'HI M1 ấm áp  ',
+    btnYes: 'zất zui',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'mot ngay am ap nhaa ',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'đêm 29, mình đón giao thừa cùng nhau nha bé.',
+    reply: 'gec thi gec ,khong gec thi thich',
+    mess: 'bit la gec ròi',
+    messDesc: 'nào rảnh i uốn nước.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: '' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink:  //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
